@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Gudea&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gudea', sans-serif;
+}
+.container{
+    height:80vh;
+    background-image: ;
+}
+.nav{
+    height:10vh;
+}
+.header{
+    text-align: center;
+}
+.header__headline{
+    color:#1EE883;
+    background: #f5f6f7;
+    font-weight:bold;
+}
+.subHeader{
+    display: flex;
+}
